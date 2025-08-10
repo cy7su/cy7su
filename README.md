@@ -48,11 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cy7su&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cy7su&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cy7su&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 <hr>
 
 <div align="center">
