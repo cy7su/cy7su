@@ -51,10 +51,6 @@
 <hr>
 
 <div align="center">
-<h2>🎯 <strong>Мои проекты</strong></h2>
-</div>
-
-<div align="center">
 <h3><strong>🌟 Основные проекты</strong></h3>
 </div>
 <div align="center">
