@@ -1,83 +1,36 @@
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cy7su&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=200&section=header&text=cy7su&fontSize=80&fontAlignY=50&desc=&descAlignY=70&descAlign=50&animation=twinkling&fontColor=#470011&borderRadius=20&font=Sono&stroke=800020&strokeWidth=2&wave=1&waveOffset=0" />
 
-<div align="center">
-<h2>🛠️ <strong>Мой стек технологий</strong></h2>
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&size=20&duration=2500&pause=800&color=800020&center=true&width=400&lines=TypeScript+%7C+Python+%7C+Rust;React+%7C+Flask+%7C+Tauri;Docker+%7C+Git+%7C+Linux)
 
 <div align="center">
-<h3><strong>Backend & Языки программирования</strong></h3>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-</div>
 
-<div align="center">
-<h3><strong>Фреймворки & Веб-технологии</strong></h3>
+![React](https://img.shields.io/badge/React-10%25-800020?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-33%25-800020?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-75%25-800020?style=for-the-badge&logo=html5&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-70%25-800020?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-60%25-800020?style=for-the-badge&logo=flask&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-45%25-800020?style=for-the-badge&logo=rust&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-15%25-800020?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-35%25-800020?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-50%25-800020?style=for-the-badge&logo=linux&logoColor=white)
+
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
 <div align="center">
-<h3><strong>Базы данных & Инструменты</strong></h3>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=cy7su&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=800020&icon_color=800020&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cy7su&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=800020&text_color=FFFFFF&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 
-<hr>
-
-<div align="center">
-<h2>📊 <strong>Моя статистика GitHub</strong></h2>
+<br>
+<a href="https://t.me/cy7su">
+  <img src="https://img.shields.io/badge/Telegram-800020?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="mailto:myaaq@yandex.ru">
+  <img src="https://img.shields.io/badge/Gmail-800020?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cy7su&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cy7su&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
 </div>
-<hr>
-
-<div align="center">
-<h3><strong>🌟 Основные проекты</strong></h3>
-</div>
-<div align="center">
-  <a href="https://github.com/cy7su/cysu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cy7su&repo=cysu&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="CYSU Project" />
-  </a>
-</div>
-
-<div align="center">
-<h3><strong>🚀 Последние активности</strong></h3>
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cy7su&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=FFFFFF&point=6366F1" alt="GitHub Activity Graph" />
-</div>
-
-<hr>
-
-<div align="center">
-<h2>📫 <strong>Свяжитесь со мной</strong></h2>
-</div>
-
-<div align="center">
-  <a href="https://t.me/cy7su">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:myaaq@yandex.ru">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
-<hr>
