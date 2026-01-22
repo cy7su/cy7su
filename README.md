@@ -2,12 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=200&section=header&text=cy7su&fontSize=80&fontAlignY=50&desc=&descAlignY=70&descAlign=50&animation=twinkling&fontColor=#470011&borderRadius=20&font=Sono&stroke=800020&strokeWidth=2&wave=1&waveOffset=0" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&size=20&duration=2500&pause=800&color=800020&center=true&width=400&lines=TypeScript+%7C+Python+%7C+Rust;React+%7C+Flask+%7C+Tauri;Docker+%7C+Git+%7C+Linux)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sono&size=20&duration=2500&pause=800&color=800020&center=true&width=400&lines=Python+%7C+Rust;Flask;Docker+%7C+Git+%7C+Linux)
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-10%25-800020?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-33%25-800020?style=for-the-badge&logo=typescript&logoColor=white)
+  
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-75%25-800020?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-70%25-800020?style=for-the-badge&logo=python&logoColor=white)
